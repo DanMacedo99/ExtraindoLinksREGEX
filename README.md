@@ -13,3 +13,5 @@ JavaScript, node@14.15.0 , node-fetch, fs e jest.
 
 # Resultado esperado
 ![resultado esperado quando todos links estão no ar](https://user-images.githubusercontent.com/109245191/191546418-0ab3c8a0-4171-4bb2-8c0a-327942a07c77.PNG)
+
+para críticas/elogios, meu contato é: danilomsp6@gmail.com
